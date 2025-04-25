@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Template", "Template\Templa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator", "Iterator\Iterator.csproj", "{4668A1AB-3CE7-40C1-B823-FDA7A6E2F47B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite", "Composite\Composite.csproj", "{D624C528-2B1A-496B-ABDC-C97411D0D34D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{4668A1AB-3CE7-40C1-B823-FDA7A6E2F47B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4668A1AB-3CE7-40C1-B823-FDA7A6E2F47B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4668A1AB-3CE7-40C1-B823-FDA7A6E2F47B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D624C528-2B1A-496B-ABDC-C97411D0D34D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D624C528-2B1A-496B-ABDC-C97411D0D34D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D624C528-2B1A-496B-ABDC-C97411D0D34D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D624C528-2B1A-496B-ABDC-C97411D0D34D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
